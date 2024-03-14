@@ -1,6 +1,5 @@
-# Amazon Clone
 
-## Description:
+
 This project is an Amazon clone website created using HTML and CSS. It replicates the basic functionality and design of the Amazon website, providing users with a familiar interface for browsing and purchasing products.
 
 ## Screenshots:
