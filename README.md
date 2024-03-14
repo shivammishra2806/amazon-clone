@@ -6,7 +6,10 @@ This project is an Amazon clone website created using HTML and CSS. It replicate
 ## Screenshots:
 
 Include screenshots of your website here to showcase its design and functionality. You can add them directly to the README or provide links to external image hosting services.
-
+Screenshot 1
+![Screenshot 1](https://github.com/shivammishra2806/amazon-clone/assets/163406082/02837311-58f4-4f22-b6b6-616e09337548)
+Screenshot 2
+![Screenshot 2](https://github.com/shivammishra2806/amazon-clone/assets/163406082/429f8f5a-9eec-4e90-9fdf-348aa33515d7)
 
 ...
 
